@@ -3,10 +3,15 @@ Creating an eBook management system in C++ can be a comprehensive project where 
 
 Key Features:
 Add Book: Add a new eBook to the system.
+
 View All Books: Display all the books in the system.
+
 Search Book: Search for a book by title or author.
+
 Remove Book: Remove a book from the system.
+
 Edit Book Information: Update the details of a book.
+
 Save and Load from File: Persist the collection by saving/loading to/from a file.
 Structure:
 Classes:
